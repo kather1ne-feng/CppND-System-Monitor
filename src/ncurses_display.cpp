@@ -7,6 +7,7 @@
 #include "format.h"
 #include "ncurses_display.h"
 #include "system.h"
+#include "process.h"
 
 using std::string;
 using std::to_string;
