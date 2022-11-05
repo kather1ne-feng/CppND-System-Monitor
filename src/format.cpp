@@ -4,7 +4,7 @@
 
 using std::string;
 
-
+// format times
 string Format::ElapsedTime(long times) {
   string sec, min, hr;
   int hours = (int) (times / 3600);
